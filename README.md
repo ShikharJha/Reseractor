@@ -20,7 +20,7 @@ Clone this repository in local using command `git clone https://github.com/d-mit
 
 Make sure all the packages listed in [`requirements.txt`](requirements.txt) file are installed before following further steps.
 
-Download the pre-trained model from this [link](abc.com) and store it in [`models`](./models/) folder.
+Download the pre-trained model from this [link](https://iitk-my.sharepoint.com/:f:/g/personal/dmittal21_iitk_ac_in/EqMmtDGgcTtCoyp2UeqAbP8Bv0ZDBCYDYy0aqh4LS2Xp5A?) and store it in [`models`](./models/) folder.
 
 Now run the command `python main.py` to start the interactive GUI window.
 
